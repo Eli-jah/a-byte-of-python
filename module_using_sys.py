@@ -1,3 +1,4 @@
+# encoding=utf-8
 import sys
 from my_module import say_hi, __version__
 

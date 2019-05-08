@@ -1,3 +1,4 @@
+# encoding=utf-8
 shopping_list = ['apple', 'mango', 'carrot', 'banana']
 name = 'Swaroop'
 

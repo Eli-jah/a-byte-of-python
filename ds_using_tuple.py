@@ -1,3 +1,4 @@
+# encoding=utf-8
 # I would recommend always using parentheses
 # to indicate the start and end of tuple
 # even though parentheses are optional.

@@ -1,3 +1,4 @@
+# encoding=utf-8
 def say_hi():
     print('Hello, this is my module.')
 

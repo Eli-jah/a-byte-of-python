@@ -1,3 +1,4 @@
+# encoding=utf-8
 print('Sample Assignment')
 
 shopping_list = ['apple', 'mango', 'carrot', 'banana']

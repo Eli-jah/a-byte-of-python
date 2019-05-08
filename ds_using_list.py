@@ -1,3 +1,4 @@
+# encoding=utf-8
 # This is my shopping list
 shopping_list = ['apple', 'mango', 'carrot', 'banana']
 

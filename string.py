@@ -1,3 +1,4 @@
+# encoding=utf-8
 age = 20
 name = 'Swaroop'
 book = "A Byte of Python"

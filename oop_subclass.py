@@ -1,3 +1,4 @@
+# encoding=utf-8
 # super-class or base-class
 class SchoolMember:
     """Represents any school member."""

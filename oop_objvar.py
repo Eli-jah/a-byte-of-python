@@ -1,3 +1,4 @@
+# encoding=utf-8
 class Robot:
     """Represents a robot, with a name."""
 

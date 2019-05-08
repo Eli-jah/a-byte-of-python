@@ -1,3 +1,4 @@
+# encoding=utf-8
 bri = set(['Brazil', 'Russia', 'India'])
 # According to the recommendation for PEP 8
 # bri = {'Brazil', 'Russia', 'India'}

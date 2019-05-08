@@ -1,3 +1,4 @@
+# encoding=utf-8
 # function
 def greet():
     print('Hello, Kitty!')

@@ -1,3 +1,4 @@
+# encoding=utf-8
 number = 23
 running = True
 
